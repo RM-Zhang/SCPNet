@@ -34,10 +34,12 @@ This work is mainly based on [RAFT](https://github.com/princeton-vl/RAFT) and [I
 
 If you find this project helpful, please consider citing the following paper:
 ```bibtex
-@article{zhang2024scpnet,
+@inproceedings{zhang2024scpnet,
   title={SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning},
   author={Zhang, Runmin and Ma, Jun and Cao, Si-Yuan and Luo, Lun and Yu, Beinan and Chen, Shu-Jie and Li, Junwei and Shen, Hui-Liang},
-  journal={arXiv preprint arXiv:2407.08148},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={460--477},
+  year={2024},
+  organization={Springer}
 }
 ```
